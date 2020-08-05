@@ -15,14 +15,15 @@ This file lists the recommended components for this Service Pack. Use it along w
 | Alfresco Transform Service | 1.3.0 |
 | Document Transformation Engine | @alfresco.transformation-engine.version@ |
 | Alfresco File Transfer Receiver | 6.2.1 |
-| Alfresco Module Management Tool | 6.0 |
+| Alfresco Module Management Tool | @dependency.alfresco-mmt.version@ |
 | Alfresco Spring Encryptor | 6.1 |
 
 ##### Alfresco Modules and Integrations
 | Component | Recommended | Also Available |
 |---|---|---|
+| Alfresco Repository | @dependency.alfresco-enterprise-repo.version@ |
 | Alfresco Share Services | @alfresco.alfresco-share-services.version@ |
-| Alfresco Google Docs Integration | @alfresco.googledocs.version@ |
+| Alfresco Google Docs Integration | @alfresco.googledrive.version@ |
 | Alfresco Governance Services | @alfresco.ags.version@ |
 | Alfresco Media Management | @alfresco.mm.version@ |
 | Alfresco Intelligence Services | @alfresco.ais.version@ |
